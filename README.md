@@ -1,4 +1,4 @@
-# 📦 IoT-Based Smart Parcel Locker with One-Time Password and Alarm System
+# 📦 IOT-BASED-SMART-PARCEL-LOCKER-WITH-ONE-TIME-PASSWORD-AND-ALARM-SYSTEM-FOR-SECURITY
 
 ## 🚀 Project Overview
 This project introduces an **IoT-based smart parcel locker** designed to enhance the security and efficiency of online deliveries. It utilizes **one-time password (OTP)** authentication and an **alarm system** to solve issues such as missed deliveries or package theft. Built using an **ESP32 microcontroller**, the system provides real-time notifications and access control via a mobile app.
